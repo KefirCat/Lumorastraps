@@ -102,9 +102,15 @@ essentials within reach.
 Place a short screen recording at `assets/lumora-preview.gif`, then
 replace this section with:
 
+<div align="center">
 
-<img src="assets/lumora-preview.gif" width="850" alt="Lumora in action">
+<img
+  src="https://raw.githubusercontent.com/KefirCat/Lumorastraps/main/assets/lumora-preview.gif"
+  width="850"
+  alt="Lumora in action"
+>
 
+</div>
 
 A short, smooth recording of the home screen → settings → launch flow
 works best.
