@@ -43,15 +43,51 @@ essentials within reach.
 
 ## 🖼️ Preview
 
-::: {align="center"}
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                         **Home**                                                                                  **Settings**
-  --------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------
-   `<img src="assets/screenshots/home.png" alt="Lumora home screen" width="440">`{=html}   `<img src="assets/screenshots/settings.png" alt="Lumora settings screen" width="440">`{=html}
 
-                         *Quick launch, right where you need it.*                                                         *Make Lumora feel like yours.*
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-:::
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<strong>Home</strong>
+
+</td>
+<td align="center">
+
+<strong>Settings</strong>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/KefirCat/Lumorastraps/main/assets/screenshots/home.png" width="440" alt="Lumora home screen">
+
+</td>
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/KefirCat/Lumorastraps/main/assets/screenshots/settings.png" width="440" alt="Lumora settings screen">
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<em>Quick launch, right where you need it.</em>
+
+</td>
+<td align="center">
+
+<em>Make Lumora feel like yours.</em>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ```{=html}
 <details>
