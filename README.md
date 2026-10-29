@@ -1,5 +1,5 @@
 ::: {align="center"}
-`<img src="https://raw.githubusercontent.com/YOUR_USERNAME/Lumora/main/assets/banner.gif" alt="Lumora banner" width="100%">`{=html}
+`<img src="https://raw.githubusercontent.com/KefirCat/Lumora/main/assets/banner.gif" alt="Lumora banner" width="100%">`{=html}
 
 # ✦ LUMORA
 
