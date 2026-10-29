@@ -25,11 +25,14 @@ stars](https://img.shields.io/github/stars/KefirCat/Lumorastraps?style=for-the-b
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
-`<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-00C8FF?style=flat-square">`{=html}
-`<img src="https://img.shields.io/badge/PLATFORM-WINDOWS-2563EB?style=flat-square&logo=windows">`{=html}
-`<img src="https://img.shields.io/badge/BUILT%20WITH-YOUR%20STACK-7C3AED?style=flat-square">`{=html}
-:::
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-00C8FF?style=flat-square" alt="Status: In Development">
+<img src="https://img.shields.io/badge/PLATFORM-WINDOWS-2563EB?style=flat-square&logo=windows" alt="Platform: Windows">
+<img src="https://img.shields.io/badge/BUILT%20WITH-CUSTOM%20TECH-7C3AED?style=flat-square" alt="Built with custom technology">
+
+</div>
 
 ## ✨ What is Lumora?
 
