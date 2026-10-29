@@ -1,2 +1,0 @@
-# Lumorastraps
-Launcher for Roblox
