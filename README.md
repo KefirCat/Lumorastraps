@@ -1,5 +1,8 @@
-::: {align="center"}
-<img src="https://raw.githubusercontent.com/KefirCat/Lumorastraps/main/assets/banner.gif" alt="Lumora banner" width="100%">{=html}
+<div align="center">
+
+<img src="./assets/banner.gif" width="100%" alt="Lumora Banner">
+
+</div>
 
 # ✦ LUMORA
 
