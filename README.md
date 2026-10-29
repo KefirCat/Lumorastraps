@@ -1,5 +1,5 @@
 ::: {align="center"}
-`<img src="https://raw.githubusercontent.com/KefirCat/Lumora/main/assets/banner.gif" alt="Lumora banner" width="100%">`{=html}
+`<img src="https://raw.githubusercontent.com/KefirCat/Lumorastraps/main/assets/banner.gif" alt="Lumora banner" width="100%">`{=html}
 
 # ✦ LUMORA
 
@@ -12,8 +12,8 @@ Studio**.
 
 [![Download](https://img.shields.io/badge/⬇%20DOWNLOAD-LATEST-16C7FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KefirCat/Lumorastraps/releases/latest)
 [![GitHub
-stars](https://img.shields.io/github/stars/KefirCat/Lumora?style=for-the-badge&logo=github&color=172F75)](https://github.com/KefirCat/Lumora/stargazers)
-[![License](https://img.shields.io/github/license/KefirCat/Lumora?style=for-the-badge&color=20C8F7)](LICENSE)
+stars](https://img.shields.io/github/stars/KefirCat/Lumorastraps?style=for-the-badge&logo=github&color=172F75)](https://github.com/KefirCat/Lumorastraps/stargazers)
+[![License](https://img.shields.io/github/license/KefirCat/Lumorastraps?style=for-the-badge&color=20C8F7)](LICENSE)
 
 `<br>`{=html}
 
@@ -167,11 +167,11 @@ Performance and FastFlags sections for supported configuration options.
 
 ::: {align="center"}
 [![Get
-Lumora](https://img.shields.io/badge/GET%20LUMORA-Download%20Latest%20Release-00BFFF?style=for-the-badge&logo=github)](https://github.com/KefirCat/Lumora/releases/latest)
+Lumora](https://img.shields.io/badge/GET%20LUMORA-Download%20Latest%20Release-00BFFF?style=for-the-badge&logo=github)](https://github.com/KefirCat/Lumorastraps/releases/latest)
 :::
 
 1.  Open the **[Latest
-    Release](https://github.com/KefirCat/Lumora/releases/latest)**
+    Release](https://github.com/KefirCat/Lumorastraps/releases/latest)**
     page.
 2.  Download the installer or archive attached to the release.
 3.  Run it and follow the setup instructions.
@@ -186,7 +186,7 @@ If you want to build Lumora yourself:
 
 ``` bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/Lumora.git
+git clone https://github.com/KefirCat/Lumorastraps.git
 
 # Enter the project directory
 cd Lumora
@@ -268,7 +268,7 @@ with, endorsed by, or sponsored by Roblox Corporation.
 </summary>
 ```
 Use the official [GitHub
-Releases](https://github.com/KefirCat/Lumora/releases/latest) page.
+Releases](https://github.com/KefirCat/Lumorastraps/releases/latest) page.
 Replace the placeholder repository link before publishing this README.
 
 ```{=html}
@@ -288,7 +288,7 @@ Replace the placeholder repository link before publishing this README.
 -   Check that Lumora points to the correct installation folder.
 -   Restart Lumora and try again.
 -   If the issue persists, open a [GitHub
-    Issue](https://github.com/KefirCat/Lumora/issues) and include
+    Issue](https://github.com/KefirCat/Lumorastraps/issues) and include
     your Windows version and the steps to reproduce it.
 
 ```{=html}
@@ -299,9 +299,9 @@ Replace the placeholder repository link before publishing this README.
 Found a bug, have an idea, or want to request a feature?
 
 -   **Bug reports:** [Open an
-    issue](https://github.com/KefirCat/Lumora/issues)
+    issue](https://github.com/KefirCat/Lumorastraps/issues)
 -   **Feature requests:** [Suggest an
-    idea](https://github.com/KefirCat/Lumora/issues)
+    idea](https://github.com/KefirCat/Lumorastraps/issues)
 -   **Community:** #?
 
 Please include a clear description and screenshots when possible.
@@ -333,7 +333,7 @@ If Lumora is useful to you, consider giving the repository a ⭐
 
 ::: {align="center"}
 [![Star
-Lumora](https://img.shields.io/badge/⭐%20STAR%20THE%20PROJECT-Show%20your%20support-1E40AF?style=for-the-badge)](https://github.com/KefirCat/Lumora)
+Lumora](https://img.shields.io/badge/⭐%20STAR%20THE%20PROJECT-Show%20your%20support-1E40AF?style=for-the-badge)](https://github.com/KefirCat/Lumorastraps)
 
 `<br>`{=html}
 
