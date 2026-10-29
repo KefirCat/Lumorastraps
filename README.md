@@ -99,10 +99,6 @@ essentials within reach.
 ```{=html}
 </summary>
 ```
-Place a short screen recording at `assets/lumora-preview.gif`, then
-replace this section with:
-
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/KefirCat/Lumorastraps/main/assets/lumora-preview.gif" width="850" alt="Lumora in action">
 </div>
